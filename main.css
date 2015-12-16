@@ -1,0 +1,135 @@
+/* CSS for Joe LaChance Resume, Prime Academy, 2015. */
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  background-color: #f0f8ff;
+}
+
+/* title */
+.title h1 {
+  font-family: 'Cabin', sans-serif;
+  color: #3c3c3c;
+  margin-left: 225px;
+  padding-bottom: 10px;
+}
+
+/* experience */
+.container .experience .col-md-7 {
+  border: solid;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.container .experience .col-md-4 {
+  border: solid;
+  margin-left: 10px;
+  background-color: #ffffff;
+}
+
+.container .experience .col-md-4 h3 {
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.experience h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #0099cc;
+}
+
+.experience h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.experience h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+}
+
+.experience p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+.experience ul {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+
+
+/* education */
+.container .education .col-md-7 {
+  border: solid;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #ffffff;
+}
+
+.education h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #0099cc;
+}
+
+.education h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.education h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+}
+
+.education p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+
+.container .education .col-md-4 {
+  border: solid;
+  margin-left: 10px;
+  background-color: #ffffff;
+  margin-top: -57px;
+}
+
+.container .education .col-md-4 h4 {
+  margin-left: 40px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #0099cc;
+}
+
+.container .education .col-md-4 ul {
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* projects */
+.container .projects .col-md-7 {
+  border: solid;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #ffffff;
+}
+
+.projects h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #0099cc;
+}
+
+.projects h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.projects p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
